@@ -11,9 +11,13 @@
 	│   └── words_tweeted.py  
 	├── tweet_input  
 	│   └── tweets.txt  
+	    └── tweets_test.txt  
 	└── tweet_output  
 	    ├── ft1.txt  
-	    └── ft2.txt  
+	    └── ft11.txt  
+	    └── ft2.txt 
+	    └── ft22.txt  
+        
 
 ## Dependencies
   * Numpy
